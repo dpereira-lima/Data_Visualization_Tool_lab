@@ -8,15 +8,15 @@ Seguindo os seguintes passos e subpassos:
 
 ## Modelagem
 
-	- faço a importação dos arquivos para o Tableau Public;
+ - faço a importação dos arquivos para o Tableau Public;
 
-	- e a modelagem de dados para criar os relacionamentos.
+ - e a modelagem de dados para criar os relacionamentos.
 
 ## Relaciomento
 
-	- crio os relacionamentos utilizando as colunas chaves de cada arquivo;
+ - crio os relacionamentos utilizando as colunas chaves de cada arquivo;
 	
-		- obs.: as colunas de chaves não tem o mesmo nome nos arquivos.
+ - obs.: as colunas de chaves não tem o mesmo nome nos arquivos.
 	
 	
 ---
