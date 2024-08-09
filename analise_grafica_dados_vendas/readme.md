@@ -15,8 +15,10 @@ Sigo os seguintes passos:
 ## Relaciomento
 
  - crio os relacionamentos utilizando as colunas chaves de cada arquivo;
-	
-  - obs.: as colunas de chaves não tem o mesmo nome nos arquivos.
+
+![img relacionamento](https://drive.google.com/uc?id=1ufRsCL_PFYqnS2iZ2KkPxFyVBGuTtOYW)
+ 
+  - obs.: as colunas chaves não tem o mesmo.
 	
 	
 ---
