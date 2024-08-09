@@ -16,7 +16,7 @@ Sigo os seguintes passos:
 
  - crio os relacionamentos utilizando as colunas chaves de cada arquivo;
 
-![img relacionamento](https://drive.google.com/uc?id=1ufRsCL_PFYqnS2iZ2KkPxFyVBGuTtOYW)
+![img relacionamentos](https://drive.google.com/uc?id=1ufRsCL_PFYqnS2iZ2KkPxFyVBGuTtOYW)
  
 obs.: as colunas chaves não tem o mesmo.
 	
