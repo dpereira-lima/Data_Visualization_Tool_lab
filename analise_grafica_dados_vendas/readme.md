@@ -18,7 +18,7 @@ Sigo os seguintes passos:
 
 ![img relacionamento](https://drive.google.com/uc?id=1ufRsCL_PFYqnS2iZ2KkPxFyVBGuTtOYW)
  
-  - obs.: as colunas chaves não tem o mesmo.
+obs.: as colunas chaves não tem o mesmo.
 	
 	
 ---
