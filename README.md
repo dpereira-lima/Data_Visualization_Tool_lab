@@ -6,7 +6,7 @@ Como Tableau, Power BI, Looker Studio e Qlik View. Com o objetivo de aprimorar o
 
 As analises estão separadas em diretórios e cada um contém um arquivo readme com uma pequena explicação e conclusão dos dados.
 
-
+---
 
 ## Explanation in English
 
