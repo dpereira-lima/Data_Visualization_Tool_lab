@@ -4,7 +4,7 @@ Neste repositório contém analise exploratória sobre dados de datasets, utiliz
 
 Com o objetivo de aprimorar o conhecimento nestas ferramentas.
 
-As analises estão separadas em diretórios e cada um contém um arquivo readme com uma pequena explicação e conclusão dos dados.
+As analises estão separadas em diretórios e cada um contém um arquivo readme com uma pequena explicação da analise.
 
 ---
 
@@ -14,4 +14,4 @@ This repository contains exploratory analysis on dataset data, using the main da
 
 With the aim of improving knowledge in these tools.
 
-The analyses are separated into directories and each one contains a readme file with a short explanation and conclusion of the data.
+The analyzes are separated into directories and each one contains a readme file with a short explanation of the analysis.
