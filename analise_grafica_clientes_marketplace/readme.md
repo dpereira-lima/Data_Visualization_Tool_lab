@@ -71,3 +71,4 @@ This analysis is based on the following views (dashboard):
  - in this visualization we can understand that the United States is the main consumer of this marketplace by total amount spent, but mainly in the electronics category.
 
 
+Check here: https://public.tableau.com/views/Analiseconsumoclientes-marketplace/Visodecompraporpontodevenda?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
