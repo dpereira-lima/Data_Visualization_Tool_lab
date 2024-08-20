@@ -1,8 +1,10 @@
 # Explicação em Português
 
-Neste diretório contém uma analise exploratória, com Tableau, sobre base de dados de vendas.
+Neste diretório contém uma análise exploratória, com Tableau, sobre base de dados de vendas.
 
-O objetivo desta análise foi destacar a performance de vendas, nos principais Estados (UF), Cidades, Lojas e Vendedores.
+O objetivo desta análise é identificar quais são os principais pontos de vendas, como Estados (UF), Cidades, Lojas e Vendedores.
+
+No final deste readme contém o link para acessar o Dashboard, hospedado no Tableau Public. Mas neste diretório há o print do dashboard.
 
 Na construção dos gráficos utilizei um recurso da ferramenta Tableau, muito útil, chamado "Eixo Duplo", que permite acompanhar o desempenho de duas medidas em um único gráfico de barras.
 
@@ -28,11 +30,13 @@ E assim fica a versão final do gráfico. Mas ainda é possível realizar divers
 
 # Explanation in English
 
-This directory contains an exploratory analysis, with Tableau, of a sales database.
+This directory contains an exploratory analysis, with Tableau, on a sales database.
 
-The objective of this analysis was to highlight sales performance in the main States (UF), Cities, Stores and Sellers.
+The objective of this analysis is to identify the main points of sale, such as States (UF), Cities, Stores and Sellers.
 
-When constructing the graphs I used a very useful feature of the Tableau tool called "Double Axis", which allows you to monitor the performance of two measurements in a single bar graph.
+The end of this readme contains the link to access the Dashboard, hosted on Tableau Public. But in this directory there is a print of the dashboard.
+
+When constructing the graphs, I used a very useful feature of the Tableau tool, called "Double Axis", which allows you to monitor the performance of two measures in a single bar graph.
 
 ## Below is a short explanation of how to use this feature:
 
