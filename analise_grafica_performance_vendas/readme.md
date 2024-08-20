@@ -56,3 +56,5 @@ And so the final version of the graph remains. But it is still possible to make 
 
 ![img relacionamentos](https://drive.google.com/uc?id=1CIjll7Ezu2hxsr1eYw1L8RUCRUoiA1jZ)
 
+
+Check here: https://public.tableau.com/views/Dashboardcomercial-performancedevendas/Dashboard1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
