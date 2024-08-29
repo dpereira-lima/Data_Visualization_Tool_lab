@@ -6,9 +6,9 @@ Neste diretório contém a analise exploratória sobre a distribuição de medal
 
 ## Sobre a analise
 
- 1ª visualização: quantidade de cada tipo de medalha por país;
- 2ª visualização: quantidade de cada tipo de medalha por gênero;
- 3ª visualização: quantidade de cada tipo de medalha por esporte.
+ - 1ª visualização: quantidade de cada tipo de medalha por país;
+ - 2ª visualização: quantidade de cada tipo de medalha por gênero;
+ - 3ª visualização: quantidade de cada tipo de medalha por esporte.
 
 ---
 
@@ -20,6 +20,6 @@ It is an analysis of one of the datasets offered by the Makeover Monday platform
 
 ## About the analysis
 
- 1st visualization: quantity of each type of medal per country;
- 2nd view: quantity of each type of medal by gender;
- 3rd view: quantity of each type of medal per sport.
+ - 1st visualization: quantity of each type of medal per country;
+ - 2nd view: quantity of each type of medal by gender;
+ - 3rd view: quantity of each type of medal per sport.
