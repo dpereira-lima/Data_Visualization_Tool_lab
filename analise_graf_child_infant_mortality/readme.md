@@ -74,8 +74,6 @@ df_new = pd.merge(df_country, df_continent, on="Entity")
 
 df_new.to_csv('child-mortality-2.csv', index=False)
 
-# Run Briefer and access it on http://localhost:3000
-brief
 ```
 
 And after the creation of the new dataset, I created the views and the dashboard on Tableau.
