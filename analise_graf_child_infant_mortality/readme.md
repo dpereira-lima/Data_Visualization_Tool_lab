@@ -16,14 +16,12 @@ import pandas as pd
 # leitura dos datasets
 
 df_country = pd.read_csv('child-mortality.csv')
-
 df_continent = pd.read_csv('continents.csv', sep=';')
 
 # alterando o nome das colunas no dataset Continente
 
 df_continent.rename(columns={'País': 'Entity'}, inplace = True)
 df_continent.rename(columns={'Continente': 'Continent'}, inplace = True)
-
 
 # realizando o merge (join) entre os datasets
 
@@ -57,14 +55,12 @@ import pandas as pd
 # reading of datasets
 
 df_country = pd.read_csv('child-mortality.csv')
-
 df_continent = pd.read_csv('continents.csv', sep=';')
 
 # by changing the column name in the Continent dataset
 
 df_continent.rename(columns={'Country': 'Entity'}, inplace = True)
 df_continent.rename(columns={'Mainland': 'Continent'}, inplace = True)
-
 
 # performing the merge (join) between the datasets
 
