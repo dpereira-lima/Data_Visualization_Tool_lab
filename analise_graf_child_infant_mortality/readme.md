@@ -81,6 +81,6 @@ And after the creation of the new dataset, I created the views and the dashboard
 
 ---
 
-Check here dashboard: 
+Check here dashboard: https://public.tableau.com/views/Childmortalityrate-1751to2021/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Check here data source: https://data.world/makeovermonday/child-and-infant-mortality/workspace/file?filename=child-mortality.csv
