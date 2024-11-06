@@ -14,5 +14,5 @@ Há também uma imagem de acesso rápido aos dashboard. Mas no final deste readm
 
 ---
 
-Check here dashboard: 
+Check here dashboard: https://public.tableau.com/views/Analisegrficacontroleentregas/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
