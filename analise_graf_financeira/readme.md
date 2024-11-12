@@ -11,8 +11,7 @@ Antes de criar o dasboard foi necessário ajustar a formatação dos dados no da
 import pandas as pd
 
 # Carregar o arquivo Excel
-file_path = 'DadosFinanceiros.xlsx'
-df = pd.read_excel(file_path, sheet_name='DadosFinanceiros')
+df = pd.read_excel('DadosFinanceiros.xlsx')
 
 # Identificar as colunas de data (todas as colunas a partir da terceira coluna)
 date_columns = df.columns[2:]
@@ -24,7 +23,7 @@ df[date_columns] = df[date_columns].replace({',': '.'}, regex=True).apply(pd.to_
 df_melted = df.melt(id_vars=['Tipo', 'Componente'], var_name='Data', value_name='Valores')
 
 # Exibir o DataFrame ajustado
-print(df_melted.head())
+df_melted.head()
 
 # Exportar o DataFrame ajustado para um arquivo Excel
 df_melted.to_excel('DadosFinanceiros_ajustado2.xlsx', index=False)
@@ -55,8 +54,7 @@ Before creating the dashboard, it was necessary to adjust the formatting of the 
 import pandas as pd
 
 # Upload the Excel file
-file_path = 'DadosFinanceiros.xlsx'
-df = pd.read_excel(file_path, sheet_name='DadosFinanceiros')
+df = pd.read_excel('DadosFinanceiros.xlsx')
 
 # Identify date columns (all columns starting from the third column)
 date_columns = df.columns[2:]
@@ -68,7 +66,7 @@ df[date_columns] = df[date_columns].replace({',': '.'}, regex=True).apply(pd.to_
 df_melted = df.melt(id_vars=['Tipo', 'Componente'], var_name='Data', value_name='Valores')
 
 # Display the adjusted DataFrame
-print(df_melted.head())
+df_melted.head()
 
 # Export the adjusted DataFrame to an Excel file
 df_melted.to_excel('DadosFinanceiros_ajustado2.xlsx', index=False)
