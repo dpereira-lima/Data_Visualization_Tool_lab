@@ -30,7 +30,7 @@ df_melted.to_excel('DadosFinanceiros_ajustado2.xlsx', index=False)
 
 ```
 
-Após este ajuste pude construir o dashboard, no Tableau, utilizando os principais KPIs financeiros:
+Após este ajuste pude construir o dashboard, no Tableau, utilizando alguns KPIs financeiros:
 
 - Total de despesas e receitas;
 - Margem de lucro;
@@ -73,7 +73,7 @@ df_melted.to_excel('DadosFinanceiros_ajustado2.xlsx', index=False)
 
 ```
 
-After this adjustment I was able to build the dashboard, in Tableau, using the main financial KPIs:
+After this adjustment I was able to build the dashboard, in Tableau, using some financial KPIs:
 
 - Total expenses and revenues;
 - Profit margin;
