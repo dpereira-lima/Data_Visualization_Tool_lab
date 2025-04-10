@@ -1,0 +1,43 @@
+1. Quantidade Vendida por Loja
+
+Este gráfico de linha permite comparar o desempenho das principais lojas ao longo dos meses do ano selecionado. É possível observar:
+
+	- Picos de venda concentrados entre julho e outubro, sugerindo ações promocionais ou sazonalidades.
+
+	- Algumas lojas, como Loja Albany e Loja Alexandria, apresentam maior volume de vendas em relação às demais, indicando forte representatividade no total vendido.
+
+	- A queda acentuada após outubro pode refletir uma redução natural do consumo ou o fim de campanhas específicas.
+
+Esse tipo de visualização é essencial para entender quais unidades mais contribuem para o faturamento, e em que momento do ano.
+
+
+
+2. Quantidade de Compra por Gênero
+
+O gráfico de pizza mostra a distribuição de compras por gênero, revelando uma divisão praticamente equilibrada entre masculino (M) e feminino (F):
+
+	- Homens representam 50,82% do total de compras.
+
+	- Mulheres representam 49,18%.
+
+Esse dado é importante para ajustar estratégias de marketing e mix de produtos, além de sugerir que ações promocionais podem ser direcionadas de forma quase igualitária entre os públicos.
+
+
+
+3. Quantidade dos Tipos de Produto Devolvidos
+
+Este gráfico de colunas mostra os produtos com maior volume de devoluções no ano analisado:
+
+	- O destaque é para o Monitor, com volume significativamente superior aos demais.
+
+	- Produtos como Mouse, Celular e Camisa também aparecem com quantidades relevantes.
+
+Essa informação é estratégica para:
+
+	- Avaliar a qualidade dos produtos vendidos.
+
+	- Revisar processos logísticos ou de atendimento pós-venda.
+
+	- Identificar possíveis falhas em fornecedores específicos.
+
+A análise de devoluções é fundamental para garantir a satisfação do cliente e reduzir custos operacionais.
