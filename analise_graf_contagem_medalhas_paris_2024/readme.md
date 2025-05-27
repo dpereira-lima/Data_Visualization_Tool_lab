@@ -4,7 +4,7 @@ No final deste readme contém o link para acesso ao dashboard, publicado na plat
 
 Esta base de dados é um dos dataset oferecido pela plataforma Makeover Monday. Esta plataforma oferece desafio semanais de construção de dashboard.
 
-## Sobre a analise
+# Sobre a analise
 
  - 1ª visualização: quantidade de cada tipo de medalha por país;
  - 2ª visualização: quantidade de cada tipo de medalha por gênero;
