@@ -1,5 +1,3 @@
-# Explicação em Português
-
 Neste diretório contém a analise exploratória sobre o dataset "How Does Our Spending Change in December?".
 
 Esta base de dados é um dos dataset oferecido pela plataforma Makeover Monday. Esta plataforma oferece desafio semanais de construção de dashboard.
@@ -11,9 +9,8 @@ Este dataset é um relatório sumarizado de gastos realizados no mês de dezembr
 Então para praticar utilizei este dados para criar um gráfico de barras em Python, Tableau e Excel.
 
 
----
+---------------------------------------------------------------------------------------------------------
 
-# Explanation in English
 
 This directory contains the exploratory analysis of the dataset "How Does Our Spending Change in December?".
 
@@ -25,6 +22,6 @@ This dataset is a summary report of expenses made in December, and there is almo
 
 So to practice, I used this data to create a bar chart in Python, Tableau and Excel.
 
----
+---------------------------------------------------------------------------------------------------------
 
 Check here data source: https://data.world/makeovermonday/2024w52-how-does-our-spending-change-in-december
