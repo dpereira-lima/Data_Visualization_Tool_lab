@@ -20,7 +20,7 @@ At the end of this readme contains the link to access the dashboard, published o
 
 This database is one of the datasets offered by the Makeover Monday platform. This platform offers weekly dashboard building challenges.
 
-## About the analysis
+#### About the analysis
 
  - 1st visualization: quantity of each type of medal per country;
  - 2nd view: quantity of each type of medal by gender;
