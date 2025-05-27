@@ -1,5 +1,3 @@
-# Explicação em Português
-
 Neste diretório contém analise exploratório, em Tableau, sobre dataset "Which social media platforms are most common?".
 
 Esta base de dados é um dos dataset oferecido pela plataforma Makeover Monday. Esta plataforma oferece desafio semanais de construção de dashboard.
@@ -14,9 +12,9 @@ Porém o que foi desafiador neste projeto, foi a construção do menu para naveg
 
 ![img relacionamento](https://drive.google.com/uc?id=12sjKxPAMsyKlCGiJOGIpecgOCGsawnMc)
 
----
 
-# Explanation in English
+---------------------------------------------------------------------------------------------------------
+
 
 This directory contains exploratory analysis, in Tableau, on the dataset "Which social media platforms are most common?".
 
@@ -32,7 +30,8 @@ However, what was challenging about this project was building the menu to naviga
 
 ![img relacionamento](https://drive.google.com/uc?id=12sjKxPAMsyKlCGiJOGIpecgOCGsawnMc)
 
----
+
+---------------------------------------------------------------------------------------------------------
 
 Check here dashboard: https://public.tableau.com/views/Usoredessociais/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
