@@ -1,5 +1,3 @@
-# Explicação em Português
-
 Neste diretório contém a analise exploratória sobre o dataset "Historical Performances of Indices".
 
 Esta base de dados é um dos dataset oferecido pela plataforma Makeover Monday. Esta plataforma oferece desafio semanais de construção de dashboard.
@@ -59,9 +57,8 @@ from indixes;
 ![img relacionamento](https://drive.google.com/uc?id=1mG7I7PCcs2nssEYqBBjQgr5vyfGNs3FA)
 
 
----
+---------------------------------------------------------------------------------------------------------
 
-# Explanation in English
 
 This directory contains the exploratory analysis of the "Historical Performances of Indices" dataset.
 
@@ -122,7 +119,7 @@ from indixes;
 ![img relacionamento](https://drive.google.com/uc?id=1mG7I7PCcs2nssEYqBBjQgr5vyfGNs3FA)
 
 
----
+---------------------------------------------------------------------------------------------------------
 
 Check here dashboard: https://public.tableau.com/views/FinancialMarketsHistoricalPerformance_17278040903050/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
