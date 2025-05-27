@@ -1,5 +1,3 @@
-# Explicação em Português
-
 Neste diretório contém a analise exploratória sobre o dataset "Literacy rate".
 
 Esta base de dados é um dos dataset oferecido pela plataforma Makeover Monday. Esta plataforma oferece desafio semanais de construção de dashboard.
@@ -12,9 +10,9 @@ Para criar este indicador utilizei recursos das ferramentas Excel (calcular o va
 
 E na parte inferior visualizamos a porcentagem de alfabetização de cada país sobre todo o globo.
 
----
 
-# Explanation in English
+---------------------------------------------------------------------------------------------------------
+
 
 This directory contains the exploratory analysis on the "Literacy rate" dataset.
 
@@ -28,7 +26,7 @@ To create this indicator, I used resources from the Excel tools (calculating the
 
 And at the bottom we visualize the literacy percentage of each country across the globe.
 
----
+---------------------------------------------------------------------------------------------------------
 
 Check here dashboard: https://public.tableau.com/views/Literacyrate-2024/Dashboard?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
