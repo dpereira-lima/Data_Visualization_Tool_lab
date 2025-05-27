@@ -1,5 +1,3 @@
-# Explicação em Português
-
 Neste diretório contém uma análise gráfica, em Tableau, sobre uma base de dados de RH, de uma empresa de TI.
 
 Há também uma imagem de acesso rápido ao dashboard. Mas no final deste readme há o endereço de acesso no portal Tableau Public.
@@ -15,9 +13,8 @@ O foco desta análise é identificar a distribuição do quadro de funcionários
 - quantidade de funcionários por disponibilidade de hora extra.
 
 
----
+---------------------------------------------------------------------------------------------------------
 
-# Explanation in English
 
 This directory contains a graphical analysis, in Tableau, on an HR database of an IT company.
 
@@ -33,7 +30,7 @@ The focus of this analysis is to identify the distribution of the staff, as foll
 - quantity of employees by level of work involvement;
 - quantity of employees by availability of overtime.
 
----
+---------------------------------------------------------------------------------------------------------
 
 Check here dashboard: https://public.tableau.com/views/Dashboard-AnalisegrficadadosRH/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
