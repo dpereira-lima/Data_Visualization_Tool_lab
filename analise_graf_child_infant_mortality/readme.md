@@ -1,5 +1,3 @@
-# Explicação em Português
-
 Neste diretório contém a analise exploratória sobre o dataset "Child and Infant Mortality".
 
 Esta base de dados é um dos dataset oferecido pela plataforma Makeover Monday. Esta plataforma oferece desafio semanais de construção de dashboard.
@@ -35,9 +33,9 @@ df_new.to_csv('child-mortality-2.csv', index=False)
 
 E após a criação do novo dataset, criei as visualizações e o dashboard no Tableau.
 
----
 
-# English Explanation
+---------------------------------------------------------------------------------------------------------
+
 
 In this directory it contains the exploratory analysis about the "Child and Infant Mortality" dataset.
 
@@ -75,7 +73,7 @@ df_new.to_csv('child-mortality-2.csv', index=False)
 And after the creation of the new dataset, I created the views and the dashboard on Tableau.
 
 
----
+---------------------------------------------------------------------------------------------------------
 
 Check here dashboard: https://public.tableau.com/views/Childmortalityrate-1751to2021/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
