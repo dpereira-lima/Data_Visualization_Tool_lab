@@ -1,5 +1,3 @@
-# Explicação em Português
-
 Neste diretório contém uma analise gráfica, em Tableau, sobre dados financeiros de uma empresa
 
 Há também uma imagem de acesso rápido ao dashboard. Mas no final deste readme há o endereço de acesso no portal Tableau Public.
@@ -39,9 +37,8 @@ Após este ajuste pude construir o dashboard, no Tableau, utilizando alguns KPIs
 - E realitório sumarizado em tabela.
 
 
----
+---------------------------------------------------------------------------------------------------------
 
-# Explanation in English
 
 This directory contains a graphical analysis, in Tableau, of a company's financial data
 
@@ -82,8 +79,7 @@ After this adjustment I was able to build the dashboard, in Tableau, using some 
 - And a summary report in a table.
 
 
-
----
+---------------------------------------------------------------------------------------------------------
 
 Check here dashboard: https://public.tableau.com/views/Analisegraficafinanceira/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
