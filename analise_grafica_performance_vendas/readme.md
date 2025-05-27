@@ -1,5 +1,3 @@
-# Explicação em Português
-
 Neste diretório contém uma análise exploratória, com Tableau, sobre base de dados de vendas.
 
 O objetivo desta análise é identificar quais são os principais pontos de vendas, como Estados (UF), Cidades, Lojas e Vendedores.
@@ -8,7 +6,7 @@ No final deste readme contém o link para acessar o Dashboard, hospedado no Tabl
 
 Na construção dos gráficos utilizei um recurso da ferramenta Tableau, muito útil, chamado "Eixo Duplo", que permite acompanhar o desempenho de duas medidas em um único gráfico de barras.
 
-## Segue uma pequena explicação de como utilizar este recurso:
+#### Segue uma pequena explicação de como utilizar este recurso:
 
 Incluo em colunas uma dimensão e em linhas duas medidas.
 
@@ -26,9 +24,9 @@ E assim fica a versão final do gráfico. Mas ainda é possível realizar divers
 
 ![img relacionamentos](https://drive.google.com/uc?id=1CIjll7Ezu2hxsr1eYw1L8RUCRUoiA1jZ)
 
----
 
-# Explanation in English
+---------------------------------------------------------------------------------------------------------
+
 
 This directory contains an exploratory analysis, with Tableau, on a sales database.
 
@@ -38,7 +36,7 @@ The end of this readme contains the link to access the Dashboard, hosted on Tabl
 
 When constructing the graphs, I used a very useful feature of the Tableau tool, called "Double Axis", which allows you to monitor the performance of two measures in a single bar graph.
 
-## Below is a short explanation of how to use this feature:
+#### Below is a short explanation of how to use this feature:
 
 Include one dimension in columns and two measures in rows.
 
@@ -56,5 +54,7 @@ And so the final version of the graph remains. But it is still possible to make 
 
 ![img relacionamentos](https://drive.google.com/uc?id=1CIjll7Ezu2hxsr1eYw1L8RUCRUoiA1jZ)
 
+
+---------------------------------------------------------------------------------------------------------
 
 Check here: https://public.tableau.com/views/Dashboardcomercial-performancedevendas/Dashboard1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
